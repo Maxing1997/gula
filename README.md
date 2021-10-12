@@ -1,3 +1,5 @@
+special thanks to [muduo](https://github.com/chenshuo/muduo)
+
 GULA is a multithreaded C++ network library based on the reactor pattern.
 
 Use of this source code is governed by a BSD-style license that can be found in the License file.
